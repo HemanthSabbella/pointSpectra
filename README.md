@@ -1,21 +1,21 @@
 # pointSpectra
 pointSpectra is low-cost, open-source solution for measuring absorbance of the analyte at specific wavelength of light. This project is initially make for the usecase of detecting snake venom using gold nanoparticles in human blood.
 
-### Hardware requirements
+### Hardware requirements:
 - [Arduino nano](https://store.arduino.cc/usa/arduino-nano) or [any small form factor arduino](https://store.arduino.cc/usa/arduino/boards-modules)
 - [Tx and Rx boards](https://github.com/HemanthSabbella/pointSpectra/tree/main/pointSpectra%20V1.0)
 
-### Software requirements
+### Software requirements:
 - [Arduino IDE](https://www.arduino.cc/en/software/)
 
-### Mechanical and glasstube requirements
+### Mechanical and glasstube requirements:
 - [3D-printed case](https://github.com/HemanthSabbella/pointSpectra/tree/main/3D%20printed%20casing)
 - A glass testtube of diameter 5mm(?)
 
-### Firmware
+### Firmware:
 - [Firmware code](https://github.com/HemanthSabbella/pointSpectra/tree/main/firmware)
 
-### Pin connections
+### Pin connections:
 
 <table>
 <tr><th>Tx connections </th><th>Rx connections</th></tr>
@@ -43,4 +43,4 @@ pointSpectra is low-cost, open-source solution for measuring absorbance of the a
 </td></tr> </table>
 
 
-> pointSpectra is developed in NeuRonICS lab, DESE, IISC. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
+> pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISC. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
