@@ -41,4 +41,4 @@ pointSpectra is low-cost, open-source alternative for measuring absorbance of th
 </td></tr> </table>
 
 
-> pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISC. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
+> pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
