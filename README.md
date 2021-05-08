@@ -1,5 +1,5 @@
 # pointSpectra
-pointSpectra is low-cost, open-source alternative for measuring absorbance of the analyte at specific wavelengths of light. This project is initially make for detecting different snake venoms using gold nanoparticles.
+pointSpectra is low-cost, open-source alternative for measuring absorbance of the analyte at specific wavelengths of light. This project is initially make for detecting different snake venoms using gold nanoparticles but can be used for any analyte.
 
 **Hardware requirements:**
 - [Arduino nano](https://store.arduino.cc/usa/arduino-nano) or [any small form factor arduino](https://store.arduino.cc/usa/arduino/boards-modules)
