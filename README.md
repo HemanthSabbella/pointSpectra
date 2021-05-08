@@ -7,7 +7,7 @@ pointSpectra is low-cost, open-source solution for measuring absorbance of the a
 
 ## Mechanical and glasstube requirements
 - [3D-printed case](https://github.com/HemanthSabbella/pointSpectra/tree/main/3D%20printed%20casing)
-- A glass testtuve of diameter 5mm(?)
+- A glass testtube of diameter 5mm(?)
 
 ## Firmware
 - [Firmware code]
