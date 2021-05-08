@@ -16,6 +16,11 @@ pointSpectra is low-cost, open-source solution for measuring absorbance of the a
 - [Firmware code]
 
 ## Pin connections
+
+<table>
+<tr><th>Tx connections </th><th>Rx connections</th></tr>
+<tr><td>
+
 | Tx | Arduino nano|
 | ------ | ------ |
 | LED_520 | D11 |
@@ -25,6 +30,8 @@ pointSpectra is low-cost, open-source solution for measuring absorbance of the a
 | LED_660 | D2 |
 | GND | GND |
 
+</td><td>
+  
 | Rx | Arduino nano|
 | ------ | ------ |
 | S0 | D5 |
@@ -32,6 +39,8 @@ pointSpectra is low-cost, open-source solution for measuring absorbance of the a
 | S2 | D7 |
 | S3 | D8 |
 | sensorOut | D9 |
+
+</td></tr> </table>
 
 
 > pointSpectra is developed in NeuRonICS lab, DESE, IISC. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
