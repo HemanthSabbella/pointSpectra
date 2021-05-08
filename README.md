@@ -25,8 +25,8 @@ pointSpectra is low-cost, open-source solution for measuring absorbance of the a
 | ------ | ------ |
 | LED_520 | D11 |
 | LED_560 | D3 |
-| LED_560 | D4 |
-| LED_560 | D10 |
+| LED_600 | D4 |
+| LED_630 | D10 |
 | LED_660 | D2 |
 | GND | GND |
 
