@@ -3,15 +3,15 @@ pointSpectra is a low-cost, open-source alternative for measuring absorbance of 
 
 **Hardware requirements:**
 - [Arduino nano](https://store.arduino.cc/usa/arduino-nano) or [any small form factor arduino](https://store.arduino.cc/usa/arduino/boards-modules)
-- [Tx and Rx boards](https://github.com/HemanthSabbella/pointSpectra/tree/main/pointSpectra%20V1.0)
+- [Tx and Rx boards](https://github.com/HemanthSabbella/pointSpectra/tree/main/Tx_Rx_boards%20V1.0)
 
 **Software requirements:**
 - [Arduino IDE](https://www.arduino.cc/en/software/)
 - [Firmware code](https://github.com/HemanthSabbella/pointSpectra/tree/main/firmware)
 
 **Mechanical requirements:**
-- [3D-printed case](https://github.com/HemanthSabbella/pointSpectra/tree/main/3D%20printed%20casing)
-- A glass testtube of diameter 5mm(?)
+- [3D-printed case](https://github.com/HemanthSabbella/pointSpectra/tree/main/3D_printed_casing)
+- A glass testtube of diameter 5mm.
 
 **Pin connections:**
 
