@@ -20,7 +20,6 @@ pointSpectra is a low-cost, open-source alternative for measuring absorbance of 
 <tr><td>
 
 | Tx | Arduino nano|
-| ------ | ------ |
 | LED_520 | D11 |
 | LED_560 | D3 |
 | LED_600 | D4 |
@@ -31,7 +30,6 @@ pointSpectra is a low-cost, open-source alternative for measuring absorbance of 
 </td><td>
   
 | Rx | Arduino nano|
-| ------ | ------ |
 | S0 | D5 |
 | S1 | D6 |
 | S2 | D7 |
