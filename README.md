@@ -32,7 +32,4 @@ pointSpectra is a low-cost, open-source alternative for measuring absorbance of 
 | S3 | D8 |
 | sensorOut | D9 |
 
-</td></tr> </table>
-
-
 > pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
