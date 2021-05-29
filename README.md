@@ -15,21 +15,17 @@ pointSpectra is a low-cost, open-source alternative for measuring absorbance of 
 
 **Pin connections:**
 
-<table>
-<tr><th>Tx connections </th><th>Rx connections</th></tr>
-<tr><td>
-
 | Tx | Arduino nano|
+|------|---------|
 | LED_520 | D11 |
 | LED_560 | D3 |
 | LED_600 | D4 |
 | LED_630 | D10 |
 | LED_660 | D2 |
 | GND | GND |
-
-</td><td>
   
 | Rx | Arduino nano|
+|--------|---------|
 | S0 | D5 |
 | S1 | D6 |
 | S2 | D7 |
