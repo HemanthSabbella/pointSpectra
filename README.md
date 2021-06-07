@@ -85,7 +85,7 @@ Use the [cheet sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/
  
 # Results 
  We have measured the absorbance of gold nanoparticles with covid positive and negative samples at 520nm and 630nm, the results are as below: 
-> <img src="./docs/img/Covid_withouttube_1.PNG" width = "465">
+> <img src="./docs/img/Covid_withouttube_1.PNG" width = "450">
 > <img src="./docs/img/Covid_positive.PNG" width = "450">
 > <img src="./docs/img/Covid_negative.PNG" width = "450">
 
