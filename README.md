@@ -36,10 +36,10 @@ pointSpectra works on the Beer-Lambert law which states that the quantity of lig
 
 # Making 
 **Tx Board:** 
-- Using narrow-band, dominant wavelength LEDs as light sources for a specific wavelength absorbance. 
+- Use narrow-band, dominant wavelength LEDs as light sources for a specific wavelength absorbance. 
 - 6-point light sources. 
 
-Spectral Response: 
+Spectral Response of LEDs: 
 
 > ![pointSpectra](./docs/img/SR.PNG)
 
