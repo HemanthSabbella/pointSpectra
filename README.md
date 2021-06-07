@@ -3,7 +3,7 @@
 pointSpectra is a low-cost, open-source alternative for measuring absorbance of the analyte at specific wavelengths of light. This project is initially made to detect various snake species venom in human blood to do a one-to-one mapping of venom and the snake species using Venom Detection Kit. Nevertheless, it  can be used for any analyte.
 
 > <img src="./docs/img/Venom.JPG" width = "700">
-> The whole setup can be built with BOM cost not more than 1000 INR.
+The whole setup can be built with BOM cost not more than 1000 INR i.e. 15 USD.
 
 # Background
 
