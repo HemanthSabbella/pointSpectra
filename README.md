@@ -1,5 +1,22 @@
 # pointSpectra
-pointSpectra is a low-cost, open-source alternative for measuring absorbance of the analyte at specific wavelengths of light. This project is initially make for detecting different snake venoms using gold nanoparticles but can be used for any analyte.
+pointSpectra is a low-cost, open-source alternative for measuring absorbance of the analyte at specific wavelengths of light. This project is initially made to detect various snake species venom in human blood to do a one-to-one mapping of venom and the snake species using Venom Detection Kit. Nevertheless, it  can be used for any analyte.
+
+# Background
+
+The Beer-Lambert law states that the quantity of light absorbed by a substance dissolved in a fully transmitting solvent is directly proportional to the concentration of the substance and the path length of the light through the solution.
+
+**Transmittance:**
+`T = I / I0`
+`% Transmittance: %T = 100 T`
+
+**Absorbance:**
+`A = log10 (I0/I)`
+`A = log10 (1/T) = -log10 (T)`
+`A = log10 (100/%T)`
+`A = 2 - log10 (%T)`
+
+
+# Requirements
 
 **Hardware requirements:**
 - [Arduino nano](https://store.arduino.cc/usa/arduino-nano) or [any small form factor arduino](https://store.arduino.cc/usa/arduino/boards-modules)
@@ -31,5 +48,22 @@ pointSpectra is a low-cost, open-source alternative for measuring absorbance of 
 | S2 | D7 |
 | S3 | D8 |
 | sensorOut | D9 |
+
+# Making 
+**Tx Board:** 
+- Using narrow-band, dominant wavelength LEDs as light sources for a specific wavelength absorbance. 
+- 6-point light sources. 
+
+Spectral Response: 
+
+
+**Rx Board:**
+
+- TCS3200 - Light(irradiance) to frequency converter. 
+- 8 x 8 array of photodiodes. 
+- 16 blue filters, 16 green filters, 16 red filters and 16 clear filters. 
+- The output is a square wave (50% duty cycle) with frequency directly proportional to luminous intensity (irradiance).
+
+Functional Block Diagram: 
 
 > pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
