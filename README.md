@@ -6,7 +6,7 @@ pointSpectra is a low-cost, open-source alternative for measuring absorbance of 
 
 # Background
 
-The Beer-Lambert law states that the quantity of light absorbed by a substance dissolved in a fully transmitting solvent is directly proportional to the concentration of the substance and the path length of the light through the solution.
+pointSpectra works on the Beer-Lambert law which states that the quantity of light absorbed by a substance dissolved in a fully transmitting solvent is directly proportional to the concentration of the substance and the path length of the light through the solution. The below is the formulation for absorbance of an analyte: 
 
 **Transmittance:**
 `T = I / I0`
@@ -80,7 +80,10 @@ Use the [cheet sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/
 > <img src="./docs/img/3d_model.PNG" width = "450">
 
 # Firmware
- The firmware code has
+ The firmware code makes the luminous intensity of LEDs same by adjusting the average current to the LEDs using Pulse Width Modulation(PWM) signals. Standard signal conditioning and calibration techniques like zero referencing and range mapping are used. It outputs an absorbance graph of an analyte by interpolating the sensor reading of 6 narrow band LED inputs.
+ 
+ # Results 
+ We have measured the absorbance of gold nanoparticles with covid positive and negative samples at 520nm and 630nm, The results are as below: 
 
 
 > pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
