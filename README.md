@@ -32,6 +32,7 @@ pointSpectra works on the Beer-Lambert law which states that the quantity of lig
 **Mechanical requirements:**
 - [3D-printed case](https://github.com/HemanthSabbella/pointSpectra/tree/main/3D_printed_casing)
 - A glass testtube of diameter 5mm.
+- Four M3 screws.
 
 
 # Making 
@@ -42,7 +43,7 @@ pointSpectra works on the Beer-Lambert law which states that the quantity of lig
 Spectral Response of LEDs: 
 
 > ![pointSpectra](./docs/img/SR.PNG)
-
+> ![pointSpectra](./docs/img/LED_array.PNG)
 
 **Rx Board:**
 
@@ -54,7 +55,7 @@ Spectral Response of LEDs:
 Functional Block Diagram: 
 
 > ![pointSpectra](./docs/img/FBD.PNG)
-
+> ![pointSpectra](./docs/img/TCS3200_board.PNG)
 
 **3D printed case:**
 
@@ -85,8 +86,8 @@ Use the [cheet sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/
  
 # Results 
  We have measured the absorbance of gold nanoparticles with COVID-19 positive and negative samples at 520nm and 630nm, the results are as below: 
-> <img src="./docs/img/Covid_withouttube_1.PNG" width = "450">
-> <img src="./docs/img/Covid_positive.PNG" width = "450">
+> <img src="./docs/img/Covid_withouttube_1.PNG" width = "450"> <br>
+> <img src="./docs/img/Covid_positive.PNG" width = "450"> <br>
 > <img src="./docs/img/Covid_negative.PNG" width = "450">
 
 > pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
