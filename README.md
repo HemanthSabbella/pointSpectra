@@ -1,7 +1,7 @@
 # pointSpectra
 pointSpectra is a low-cost, open-source alternative for measuring absorbance of the analyte at specific wavelengths of light. This project is initially made to detect various snake species venom in human blood to do a one-to-one mapping of venom and the snake species using Venom Detection Kit. Nevertheless, it  can be used for any analyte.
 
-> ![pointSpectra](./docs/img/Venom.JPG)
+> <img src="./docs/img/Venom.JPG" width = "700">
 
 # Background
 
