@@ -46,6 +46,7 @@ The setup mainly invoves three boards - Tx Board, Rx Board and Arduino nano. Tx 
 **Tx Board:** 
 - Use narrow-band, dominant wavelength LEDs as light sources for a specific wavelength absorbance. 
 - 6-point light sources. 
+- Adjust the current limiting resistor properly by using forward voltage and current of LEDs, and the supply voltage. 
 
 Spectral Response of 520nm LED: 
 
