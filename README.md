@@ -42,8 +42,8 @@ pointSpectra works on the Beer-Lambert law which states that the quantity of lig
 
 Spectral Response of LEDs: 
 
-> ![pointSpectra](./docs/img/SR.PNG)
-> ![pointSpectra](./docs/img/LED_array.PNG)
+> <img src="./docs/img/SR.PNG" width = "300">
+> <img src="./docs/img/LED_array.png" width = "300">
 
 **Rx Board:**
 
@@ -54,8 +54,8 @@ Spectral Response of LEDs:
 
 Functional Block Diagram: 
 
-> ![pointSpectra](./docs/img/FBD.PNG)
-> ![pointSpectra](./docs/img/TCS3200_board.PNG)
+> <img src="./docs/img/FBD.PNG" width = "300">
+> <img src="./docs/img/TCS3200_board.png" width = "300">
 
 **3D printed case:**
 
