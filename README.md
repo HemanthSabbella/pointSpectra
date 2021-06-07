@@ -27,7 +27,7 @@ pointSpectra works on the Beer-Lambert law which states that the quantity of lig
 
 **Software requirements:**
 - [Arduino IDE](https://www.arduino.cc/en/software/)
-- [Firmware code](https://github.com/HemanthSabbella/pointSpectra/tree/main/firmware)
+- [Firmware](https://github.com/HemanthSabbella/pointSpectra/tree/main/firmware)
 
 **Mechanical requirements:**
 - [3D-printed case](https://github.com/HemanthSabbella/pointSpectra/tree/main/3D_printed_casing)
@@ -86,10 +86,10 @@ Use the [cheet sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/
 | sensorOut | D9 |
 
 # Firmware
- The firmware code makes the luminous intensity of LEDs same by adjusting the average current to the LEDs using Pulse Width Modulation (PWM) signals. Standard signal conditioning and calibration techniques like zero referencing and range mapping are used. It outputs an absorbance graph of an analyte by interpolating the sensor reading of 6 narrow band LED inputs.
+ The firmware code makes the luminous intensity of LEDs same by adjusting the average current to the LEDs using Pulse Width Modulation (PWM) signals. Standard signal conditioning and calibration techniques like zero referencing and range mapping are used. It outputs an absorbance graph of an analyte by interpolating the sensor reading of 6 narrow band LED inputs. Flash the [Firmware](https://github.com/HemanthSabbella/pointSpectra/tree/main/firmware) using [Arduino IDE](https://www.arduino.cc/en/software/). 
  
 # Results 
- We have measured the absorbance of gold nanoparticles with COVID-19 positive and negative samples at 520nm and 630nm and reapted it a couple of times, the results are as below: 
+ We have measured the absorbance of gold nanoparticles with COVID-19 positive and negative samples at 520nm and 630nm and repeated it a couple of times, the results are as below: 
 > <img src="./docs/img/Covid_withouttube_1.PNG" width = "450"> <br>
 > <img src="./docs/img/Covid_positive.PNG" width = "450"> <br>
 > <img src="./docs/img/Covid_negative.PNG" width = "450">
