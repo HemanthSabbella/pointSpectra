@@ -33,24 +33,6 @@ pointSpectra works on the Beer-Lambert law which states that the quantity of lig
 - [3D-printed case](https://github.com/HemanthSabbella/pointSpectra/tree/main/3D_printed_casing)
 - A glass testtube of diameter 5mm.
 
-**Pin connections:**
-
-| Tx | Arduino nano|
-|------|---------|
-| LED_520 | D11 |
-| LED_560 | D3 |
-| LED_600 | D4 |
-| LED_630 | D10 |
-| LED_660 | D2 |
-| GND | GND |
-  
-| Rx | Arduino nano|
-|--------|---------|
-| S0 | D5 |
-| S1 | D6 |
-| S2 | D7 |
-| S3 | D8 |
-| sensorOut | D9 |
 
 # Making 
 **Tx Board:** 
@@ -79,11 +61,32 @@ Functional Block Diagram:
 Use the [cheet sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/docs/img/3d_print_CS.PNG) of if you are not familiar with 3D printing.  
 > <img src="./docs/img/3d_model.PNG" width = "450">
 
+**Pin connections:**
+
+| Tx | Arduino nano|
+|------|---------|
+| LED_520 | D11 |
+| LED_560 | D3 |
+| LED_600 | D4 |
+| LED_630 | D10 |
+| LED_660 | D2 |
+| GND | GND |
+  
+| Rx | Arduino nano|
+|--------|---------|
+| S0 | D5 |
+| S1 | D6 |
+| S2 | D7 |
+| S3 | D8 |
+| sensorOut | D9 |
+
 # Firmware
  The firmware code makes the luminous intensity of LEDs same by adjusting the average current to the LEDs using Pulse Width Modulation(PWM) signals. Standard signal conditioning and calibration techniques like zero referencing and range mapping are used. It outputs an absorbance graph of an analyte by interpolating the sensor reading of 6 narrow band LED inputs.
  
  # Results 
  We have measured the absorbance of gold nanoparticles with covid positive and negative samples at 520nm and 630nm, the results are as below: 
-
+> <img src="./docs/img/Covid_withouttube_1.PNG" width = "450">
+> <img src="./docs/img/Covid_positive.PNG" width = "450">
+> <img src="./docs/img/Covid_negative.PNG" width = "450">
 
 > pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
