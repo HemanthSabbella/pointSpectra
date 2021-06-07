@@ -38,7 +38,7 @@ pointSpectra works on the Beer-Lambert law which states that the quantity of lig
 
 
 # Making 
-The setup mainly invoves three boards - Tx Board, Rx Board and Arduino nano. Tx board has wavelength-specific LED emitters that goes through mechanical slits of the the 3D printed case in which a glass tube is inserted orthogonally and the unabsorbed light beams coming through the tube fall on Rx board which has photo diode array that converts the light intensity into propotional frequency. This signal is caputured by the nano-microcorntoller, further processing of the data is done and it's followed by plotting the absorbance graph.  
+The setup mainly invoves three boards - Tx Board, Rx Board and Arduino nano. Tx board has wavelength-specific LED emitters that goes through mechanical slits of the 3D printed case in which a glass tube is inserted orthogonally and the unabsorbed light beams coming through the tube, fall on Rx board which has photo diode array that converts the light intensity into propotional frequency. This signal is caputured by the nano-microcorntoller, further processing of the data is done and it's followed by plotting the absorbance graph.  
 
 > <img src="./docs/img/light.PNG" width = "400">
 > <img src="./docs/img/glass_tube.PNG" width = "345">
@@ -47,7 +47,7 @@ The setup mainly invoves three boards - Tx Board, Rx Board and Arduino nano. Tx 
 - Use narrow-band, dominant wavelength LEDs as light sources for a specific wavelength absorbance. 
 - 6-point light sources. 
 
-Spectral Response of LEDs: 
+Spectral Response of 520nm LED: 
 
 > <img src="./docs/img/SR.PNG" width = "450">
 > <img src="./docs/img/LED_array.png" width = "350">
