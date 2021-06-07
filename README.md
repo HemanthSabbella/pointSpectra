@@ -73,6 +73,7 @@ Functional Block Diagram:
 > ![pointSpectra](./docs/img/FBD.PNG)
 
 **3D printed case:**
+
 Use the [cheet sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/docs/img/3d_print_CS.PNG) of if you are not familiar with 3D printing.  
 > ![pointSpectra](./docs/img/3d_model.PNG)
 
