@@ -89,7 +89,7 @@ Use the [cheet sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/
 | sensorOut | D9 |
 
 # Firmware
- The firmware code makes the luminous intensity of LEDs same by adjusting the average current to the LEDs using Pulse Width Modulation (PWM) signals. Standard signal conditioning like moving average on the real-time data is preformed to avoid sharp transtion due to external environment. Calibration methods - zero referencing and range mapping are used. it outputs an absorbance graph of an analyte by interpolating the sensor reading of 6 narrow band LED inputs. Flash the [Firmware](https://github.com/HemanthSabbella/pointSpectra/tree/main/firmware) using [Arduino IDE](https://www.arduino.cc/en/software/). 
+ The firmware code makes the luminous intensity of LEDs same by adjusting the average current to the LEDs using Pulse Width Modulation (PWM) signals. Standard signal conditioning like moving average on the real-time data is preformed to avoid sharp transition due to external environment. Calibration methods - zero referencing and range mapping are used. it outputs an absorbance graph of an analyte by interpolating the sensor reading of 6 narrow band LED inputs. Flash the [Firmware](https://github.com/HemanthSabbella/pointSpectra/tree/main/firmware) using [Arduino IDE](https://www.arduino.cc/en/software/). 
  
 # Results 
  We have measured the absorbance of gold nanoparticles with COVID-19 positive and negative samples at 520nm and 630nm (2-points) and repeated it a couple of times, the results are as below: 
