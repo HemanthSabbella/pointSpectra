@@ -96,4 +96,6 @@ Use the [cheet sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/
 > <img src="./docs/img/Covid_positive.PNG" width = "450"> <br>
 > <img src="./docs/img/Covid_negative.PNG" width = "450">
 
+We have been working to test more analytes to validate the robustness of pointSpectra, stay tunned to this space for more results. 
+
 > pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
