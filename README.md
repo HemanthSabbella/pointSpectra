@@ -79,5 +79,8 @@ Functional Block Diagram:
 Use the [cheet sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/docs/img/3d_print_CS.PNG) of if you are not familiar with 3D printing.  
 > <img src="./docs/img/3d_model.PNG" width = "450">
 
+# Firmware
+ The firmware code has
+
 
 > pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
