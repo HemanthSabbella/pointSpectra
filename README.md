@@ -4,7 +4,7 @@ pointSpectra is a low-cost, open-source alternative for measuring absorbance of 
 
 > <img src="./docs/img/Venom.JPG" width = "700">
 
-Note: The whole setup can be built with BOM cost not more than 1000 INR i.e. 15 USD.
+**Note:** The whole setup can be built with BOM cost not more than 1000 INR i.e. 15 USD.
 
 # Background
 
@@ -97,6 +97,6 @@ Use the [cheet sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/
 > <img src="./docs/img/Covid_positive.PNG" width = "450"> <br>
 > <img src="./docs/img/Covid_negative.PNG" width = "450">
 
-We have been working to test more analytes to validate the robustness of pointSpectra, stay tunned to this space for more results. 
+**Note:** We have been working to test more analytes to validate the robustness of pointSpectra, stay tunned to this space for more results. 
 
 > pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
