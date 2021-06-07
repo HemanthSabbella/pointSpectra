@@ -1,7 +1,7 @@
 # pointSpectra
 pointSpectra is a low-cost, open-source alternative for measuring absorbance of the analyte at specific wavelengths of light. This project is initially made to detect various snake species venom in human blood to do a one-to-one mapping of venom and the snake species using Venom Detection Kit. Nevertheless, it  can be used for any analyte.
 
-<img src="/docs/img/Venom.JPG" alt="drawing" width="200"/>
+<img src="/docs/img/Venom.JPG" alt="drawing" width="800"/>
 
 # Background
 
@@ -58,7 +58,7 @@ The Beer-Lambert law states that the quantity of light absorbed by a substance d
 
 Spectral Response: 
 
-<img src="/docs/img/SR.PNG" alt="drawing" />
+<img src="/docs/img/SR.PNG" alt="drawing"/>
 
 **Rx Board:**
 
