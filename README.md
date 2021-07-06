@@ -38,7 +38,7 @@ pointSpectra works on the Beer-Lambert law which states that the quantity of lig
 
 
 # Making 
-The setup mainly invoves three boards - Tx Board, Rx Board and Arduino nano. Tx board has wavelength-specific LED emitters that goes through mechanical slits of the 3D printed case in which a glass tube is inserted orthogonally and the unabsorbed light beams coming through the tube, fall on Rx board which has photo diode array that converts the light intensity into propotional frequency. This signal is caputured by the nano-microcorntoller, further processing of the data is done and it's followed by plotting the absorbance graph.  
+The setup mainly invoves three boards - Tx Board, Rx Board and Arduino nano. Tx board has wavelength-specific LED emitters that goes through mechanical slits of the 3D printed case in which a glass tube is inserted orthogonally and the unabsorbed light beams coming through the tube, fall on Rx board which has photo diode array that converts the light intensity into proportional frequency. This signal is caputured by the nano-microcontroller, further processing of the data is done and it's followed by plotting the absorbance graph.  
 
 > <img src="./docs/img/light.PNG" width = "400">
 > <img src="./docs/img/glass_tube.PNG" width = "345">
@@ -101,3 +101,4 @@ Use the [cheet sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/
 **Note:** We have been working to test more analytes to validate the robustness of pointSpectra, stay tunned to this space for more results. 
 
 > pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
+> Team members: Dr. S. C. G. Kiruba Daniel, Poojitha S Pai
