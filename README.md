@@ -67,7 +67,7 @@ Functional Block Diagram:
 
 **3D printed case:**
 
-Use the [cheet sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/docs/img/3d_print_CS.PNG) of if you are not familiar with 3D printing.  
+Use the [cheat sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/docs/img/3d_print_CS.PNG) of if you are not familiar with 3D printing. We have used fractal works extended printer and print time with infill 50% and layer height 0.2 is 8 hrs. 
 > <img src="./docs/img/3d_model.PNG" width = "450">
 
 **Pin connections:**
