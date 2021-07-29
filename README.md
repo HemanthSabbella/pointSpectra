@@ -100,6 +100,6 @@ Use the [cheat sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/
 
 **Note:** We have been working to test more analytes to validate the robustness of pointSpectra, stay tuned to this space for more results. 
 
-> pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
+> pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc under the guidance of Dr. Chetan Singh Thakur. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
 
 > Team members: Dr. S. C. G. Kiruba Daniel, Poojitha S Pai
