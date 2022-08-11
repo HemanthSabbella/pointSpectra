@@ -98,6 +98,9 @@ Use the [cheat sheet](https://github.com/HemanthSabbella/pointSpectra/blob/main/
 > <img src="./docs/img/Covid_positive.PNG" width = "450"> <br>
 > <img src="./docs/img/Covid_negative.PNG" width = "450">
 
+# Publication
+S C G Kiruba Daniel, Poojitha S Pai, Hemanth Reddy Sabbella, Kumar Singh, Ambica Rangaiah, Shantala Gowdara Basawarajappa, Chetan Singh Thakur, [“Handheld, low-cost, aptamer-based sensing device for rapid SARS-CoV-2 RNA detection using novelly synthesized gold nanoparticles.”](https://ieeexplore.ieee.org/document/9854404) IEEE Sensors Journal, 2022
+
 **Note:** We have been working to test more analytes to validate the robustness of pointSpectra, stay tuned to this space for more results. 
 
 > pointSpectra is developed in [NeuRonICS lab](https://labs.dese.iisc.ac.in/neuronics/), DESE, IISc under the guidance of Dr. Chetan Singh Thakur. For any clarification and details about replication please contact the author at hemanthrs@iisc.ac.in
